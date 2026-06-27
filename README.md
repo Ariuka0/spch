@@ -1,4 +1,4 @@
-# 🎙️ spch — Speech to Text
+# 🎙️ Speech to Text
 
 Real-time speech recognition that converts spoken words into text,
 supporting multiple languages including Mongolian 🇲🇳.

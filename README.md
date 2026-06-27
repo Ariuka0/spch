@@ -39,8 +39,8 @@ no external services, fully client-side.
 ## 🚀 Run locally
 
 ```bash
-git clone https://github.com/Ariuka0/spch
-cd spch
+git clone https://github.com/Ariuka0/Speech-To-Text
+cd Speech-To-Text
 # Open index.html in your browser
 ```
 
